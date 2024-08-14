@@ -7,7 +7,8 @@
     
 		"category": [
       "Characters 1",
-      "Character"
+      "Character",
+      "Support"
     ],
     
 		"progression": true
@@ -20,7 +21,9 @@
     
 		"category": [
       "Characters 1",
-      "Character"
+      "Character",
+      "DPS",
+      "MAG"
     ],
     
 		"progression": true
@@ -33,7 +36,8 @@
     
 		"category": [
       "Characters 1",
-      "Character"
+      "Character",
+      "Support"
     ],
     
 		"progression": true
@@ -46,7 +50,8 @@
     
 		"category": [
       "Characters 1",
-      "Character"
+      "Character",
+      "Support"
     ],
     
 		"progression": true
@@ -59,7 +64,9 @@
     
 		"category": [
       "Characters 2",
-      "Character"
+      "Character",
+      "Tank",
+      "DEF"
     ],
     
 		"progression": true
@@ -72,7 +79,9 @@
     
 		"category": [
       "Characters 2",
-      "Character"
+      "Character",
+      "DPS",
+      "ATK"
     ],
     
 		"progression": true
@@ -85,7 +94,10 @@
     
 		"category": [
       "Characters 2",
-      "Character"
+      "Character",
+      "DPS",
+      "ATK",
+      "TRR"
     ],
     
 		"progression": true
@@ -98,7 +110,9 @@
     
 		"category": [
       "Characters 2",
-      "Character"
+      "Character",
+      "DPS",
+      "MAG"
     ],
     
 		"progression": true
@@ -111,7 +125,9 @@
     
 		"category": [
       "Characters 2",
-      "Character"
+      "Character",
+      "Debuff",
+      "PAR"
     ],
     
 		"progression": true
@@ -124,7 +140,9 @@
     
 		"category": [
       "Characters 2",
-      "Character"
+      "Character",
+      "Support",
+      "MND"
     ],
     
 		"progression": true
@@ -137,7 +155,10 @@
     
 		"category": [
       "Characters 2",
-      "Character"
+      "Character",
+      "Tank",
+      "HP",
+      "DTH"
     ],
     
 		"progression": true
@@ -150,7 +171,9 @@
     
 		"category": [
       "Characters 2",
-      "Character"
+      "Character",
+      "DPS",
+      "ATK"
     ],
     
 		"progression": true
@@ -163,7 +186,9 @@
     
 		"category": [
       "Characters 2",
-      "Character"
+      "Character",
+      "DPS",
+      "ATK"
     ],
     
 		"progression": true
@@ -176,7 +201,11 @@
     
 		"category": [
       "Characters 2",
-      "Character"
+      "Character",
+      "Tank",
+      "MND",
+      "TRR",
+      "ATK"
     ],
     
 		"progression": true
@@ -189,7 +218,9 @@
     
 		"category": [
       "Characters 3",
-      "Character"
+      "Character",
+      "Debuff",
+      "PSN"
     ],
     
 		"progression": true
@@ -202,7 +233,9 @@
     
 		"category": [
       "Characters 3",
-      "Character"
+      "Character",
+      "DPS",
+      "MAG"
     ],
     
 		"progression": true
@@ -215,7 +248,10 @@
     
 		"category": [
       "Characters 3",
-      "Character"
+      "Character",
+      "Tank",
+      "DPS",
+      "ATK"
     ],
     
 		"progression": true
@@ -228,7 +264,9 @@
     
 		"category": [
       "Characters 3",
-      "Character"
+      "Character",
+      "Support",
+      "SPD"
     ],
     
 		"progression": true
@@ -241,7 +279,11 @@
     
 		"category": [
       "Characters 3",
-      "Character"
+      "Character",
+      "Debuff",
+      "PSN",
+      "PAR",
+      "SIL"
     ],
     
 		"progression": true
@@ -254,7 +296,9 @@
     
 		"category": [
       "Characters 3",
-      "Character"
+      "Character",
+      "DPS",
+      "ATK"
     ],
     
 		"progression": true
@@ -267,7 +311,9 @@
     
 		"category": [
       "Characters 3",
-      "Character"
+      "Character",
+      "DPS",
+      "MAG"
     ],
     
 		"progression": true
@@ -280,7 +326,10 @@
     
 		"category": [
       "Characters 3",
-      "Character"
+      "Character",
+      "Debuff",
+      "MAG",
+      "MND"
     ],
     
 		"progression": true
@@ -293,7 +342,10 @@
     
 		"category": [
       "Characters 3",
-      "Character"
+      "Character",
+      "Debuff",
+      "SHK",
+      "TRR"
     ],
     
 		"progression": true
@@ -306,7 +358,9 @@
     
 		"category": [
       "Characters 3",
-      "Character"
+      "Character",
+      "DPS",
+      "MAG"
     ],
     
 		"progression": true
@@ -332,7 +386,11 @@
     
 		"category": [
       "Characters 3",
-      "Character"
+      "Character",
+      "DPS",
+      "ATK",
+      "HVY",
+      "SIL"
     ],
     
 		"progression": true
@@ -345,7 +403,10 @@
     
 		"category": [
       "Characters 4",
-      "Character"
+      "Character",
+      "Tank",
+      "DPS",
+      "ATK"
     ],
     
 		"progression": true
@@ -358,7 +419,9 @@
     
 		"category": [
       "Characters 4",
-      "Character"
+      "Character",
+      "DPS",
+      "HVY"
     ],
     
 		"progression": true
@@ -371,7 +434,9 @@
     
 		"category": [
       "Characters 4",
-      "Character"
+      "Character",
+      "DPS",
+      "MAG"
     ],
     
 		"progression": true
@@ -384,7 +449,9 @@
     
 		"category": [
       "Characters 4",
-      "Character"
+      "Character",
+      "Support",
+      "HVY"
     ],
     
 		"progression": true
@@ -397,7 +464,12 @@
     
 		"category": [
       "Characters 4",
-      "Character"
+      "Character",
+      "Debuff",
+      "TRR",
+      "SIL",
+      "SHK",
+      "PSN"
     ],
     
 		"progression": true
@@ -410,7 +482,10 @@
     
 		"category": [
       "Characters 4",
-      "Character"
+      "Character",
+      "Support",
+      "DPS",
+      "MAG"
     ],
     
 		"progression": true
@@ -423,7 +498,9 @@
     
 		"category": [
       "Characters 4",
-      "Character"
+      "Character",
+      "DPS",
+      "MAG"
     ],
     
 		"progression": true
@@ -436,7 +513,11 @@
     
 		"category": [
       "Characters 4",
-      "Character"
+      "Character",
+      "DPS",
+      "ATK",
+      "HVY",
+      "TRR"
     ],
     
 		"progression": true
@@ -449,7 +530,10 @@
     
 		"category": [
       "Characters 4",
-      "Character"
+      "Character",
+      "DPS",
+      "MAG",
+      "Support"
     ],
     
 		"progression": true
@@ -462,7 +546,9 @@
     
 		"category": [
       "Characters 5",
-      "Character"
+      "Character",
+      "DPS",
+      "ATK"
     ],
     
 		"progression": true
@@ -475,7 +561,9 @@
     
 		"category": [
       "Characters 5",
-      "Character"
+      "Character",
+      "DPS",
+      "ATK"
     ],
     
 		"progression": true
@@ -488,7 +576,10 @@
     
 		"category": [
       "Characters 5",
-      "Character"
+      "Character",
+      "DPS",
+      "ATK",
+      "MAG"
     ],
     
 		"progression": true
@@ -501,7 +592,11 @@
     
 		"category": [
       "Characters 5",
-      "Character"
+      "Character",
+      "DPS",
+      "ATK",
+      "MAG",
+      "PAR"
     ],
     
 		"progression": true
@@ -514,7 +609,10 @@
     
 		"category": [
       "Characters 5",
-      "Character"
+      "Character",
+      "Tank",
+      "DEF",
+      "MND"
     ],
     
 		"progression": true
@@ -527,7 +625,9 @@
     
 		"category": [
       "Characters 5",
-      "Character"
+      "Character",
+      "DPS",
+      "ATK"
     ],
     
 		"progression": true
@@ -540,7 +640,8 @@
     
 		"category": [
       "Characters 6",
-      "Character"
+      "Character",
+      "DTH"
     ],
     
 		"progression": true
@@ -553,7 +654,9 @@
     
 		"category": [
       "Characters 6",
-      "Character"
+      "Character",
+      "DPS",
+      "MAG"
     ],
     
 		"progression": true
@@ -566,7 +669,8 @@
     
 		"category": [
       "Characters 6",
-      "Character"
+      "Character",
+      "Support"
     ],
     
 		"progression": true
@@ -579,7 +683,8 @@
     
 		"category": [
       "Characters 6",
-      "Character"
+      "Character",
+      "Support"
     ],
     
 		"progression": true
@@ -592,7 +697,10 @@
     
 		"category": [
       "Characters 6",
-      "Character"
+      "Character",
+      "DPS",
+      "MAG",
+      "ATK"
     ],
     
 		"progression": true
@@ -605,7 +713,11 @@
     
 		"category": [
       "Characters 6",
-      "Character"
+      "Character",
+      "Support",
+      "SHK",
+      "PAR",
+      "SIL"
     ],
     
 		"progression": true
@@ -618,7 +730,12 @@
     
 		"category": [
       "Characters 6",
-      "Character"
+      "Character",
+      "DPS",
+      "MAG",
+      "DTH",
+      "TRR",
+      "SHK"
     ],
     
 		"progression": true
@@ -644,7 +761,11 @@
     
 		"category": [
       "Characters 7",
-      "Character"
+      "Character",
+      "DPS",
+      "MAG",
+      "SHK",
+      "SIL"
     ],
     
 		"progression": true
@@ -657,7 +778,9 @@
     
 		"category": [
       "Characters 7",
-      "Character"
+      "Character",
+      "DPS",
+      "ATK"
     ],
     
 		"progression": true
@@ -683,7 +806,8 @@
     
 		"category": [
       "Characters 7",
-      "Character"
+      "Character",
+      "Support"
     ],
     
 		"progression": true
@@ -696,7 +820,10 @@
     
 		"category": [
       "Characters 7",
-      "Character"
+      "Character",
+      "DPS",
+      "Support",
+      "ATK"
     ],
     
 		"progression": true
@@ -709,7 +836,9 @@
     
 		"category": [
       "Characters 7",
-      "Character"
+      "Character",
+      "DPS",
+      "MAG"
     ],
     
 		"progression": true
@@ -722,7 +851,8 @@
     
 		"category": [
       "Characters 7",
-      "Character"
+      "Character",
+      "Support"
     ],
     
 		"progression": true
