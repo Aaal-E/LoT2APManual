@@ -153,7 +153,7 @@
       "1F"
     ],
     
-		"requires": []
+		"requires": "|@Character:12|"
   },
   {
     
@@ -267,7 +267,7 @@
     
 		"name": "Defeat FOE - Chrysomallos",
     
-		"region": "2F",
+		"region": "3F",
     
 		"category": [
       "2F"
@@ -363,7 +363,7 @@
     
 		"name": "Defeat FOE - Lesser Golem",
     
-		"region": "3F",
+		"region": "4F",
     
 		"category": [
       "3F"
@@ -373,7 +373,7 @@
   },
   {
     
-		"name": "Defeak Komachi",
+		"name": "Defeat Komachi",
     
 		"region": "3F",
     
@@ -381,7 +381,7 @@
       "3F"
     ],
     
-		"requires": []
+		"requires": "|@DEF:1| OR |@HP:1|"
   },
   {
     
@@ -1891,7 +1891,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "5F"
   },
   {
     
@@ -1901,7 +1903,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -1915,7 +1919,9 @@
     
 		"place_item_category": [
       "Filler"
-    ]
+    ],
+    
+		"region": "15F"
   },
   {
     
@@ -1935,7 +1941,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -1975,7 +1983,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "3F"
   },
   {
     
@@ -1989,7 +1999,9 @@
     
 		"place_item_category": [
       "Filler"
-    ]
+    ],
+    
+		"region": "8F"
   },
   {
     
@@ -2003,7 +2015,9 @@
     
 		"place_item_category": [
       "Filler"
-    ]
+    ],
+    
+		"region": "12F"
   },
   {
     
@@ -2017,7 +2031,9 @@
     
 		"place_item_category": [
       "Filler"
-    ]
+    ],
+    
+		"region": "16F"
   },
   {
     
@@ -2027,7 +2043,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "4F"
   },
   {
     
@@ -2037,7 +2055,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "8F"
   },
   {
     
@@ -2047,7 +2067,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "12F"
   },
   {
     
@@ -2057,7 +2079,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "16F"
   },
   {
     
@@ -2067,7 +2091,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "4F"
   },
   {
     
@@ -2081,7 +2107,9 @@
     
 		"place_item_category": [
       "Filler"
-    ]
+    ],
+    
+		"region": "12F"
   },
   {
     
@@ -2091,7 +2119,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "4F"
   },
   {
     
@@ -2101,7 +2131,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "8F"
   },
   {
     
@@ -2115,7 +2147,9 @@
     
 		"place_item_category": [
       "Filler"
-    ]
+    ],
+    
+		"region": "12F"
   },
   {
     
@@ -2125,7 +2159,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "12F"
   },
   {
     
@@ -2135,7 +2171,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "12F"
   },
   {
     
@@ -2165,7 +2203,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "6F"
   },
   {
     
@@ -2175,7 +2215,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2189,7 +2231,9 @@
     
 		"place_item_category": [
       "Filler"
-    ]
+    ],
+    
+		"region": "15F"
   },
   {
     
@@ -2199,7 +2243,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "6F"
   },
   {
     
@@ -2209,7 +2255,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "3F"
   },
   {
     
@@ -2219,7 +2267,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2229,7 +2279,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "15F"
   },
   {
     
@@ -2239,7 +2291,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "18F"
   },
   {
     
@@ -2249,7 +2303,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "8F"
   },
   {
     
@@ -2259,7 +2315,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "12F"
   },
   {
     
@@ -2269,7 +2327,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "5F"
   },
   {
     
@@ -2279,7 +2339,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2289,7 +2351,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "13F"
   },
   {
     
@@ -2299,7 +2363,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "16F"
   },
   {
     
@@ -2309,7 +2375,7 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": "|@Character:12|"
   },
   {
     
@@ -2319,7 +2385,7 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": "|@Character:24|"
   },
   {
     
@@ -2329,7 +2395,7 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": "|@Character:36|"
   },
   {
     
@@ -2339,7 +2405,7 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": "|@Character:48|"
   },
   {
     
@@ -2349,7 +2415,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "3F"
   },
   {
     
@@ -2359,7 +2427,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "8F"
   },
   {
     
@@ -2369,7 +2439,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "20F"
   },
   {
     
@@ -2389,7 +2461,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "5F"
   },
   {
     
@@ -2399,7 +2473,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2409,7 +2485,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "15F"
   },
   {
     
@@ -2419,7 +2497,7 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": "|@Sub Equipment:25|"
   },
   {
     
@@ -2429,7 +2507,7 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": "|@Sub Equipment:50|"
   },
   {
     
@@ -2439,7 +2517,7 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": "|@Sub Equipment:75|"
   },
   {
     
@@ -2449,7 +2527,7 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": "|@Sub Equipment:95|"
   },
   {
     
@@ -2459,7 +2537,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2469,7 +2549,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "8F"
   },
   {
     
@@ -2479,7 +2561,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "16F"
   },
   {
     
@@ -2489,7 +2573,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "4F"
   },
   {
     
@@ -2499,7 +2585,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2509,7 +2597,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2519,7 +2609,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2529,7 +2621,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "6F"
   },
   {
     
@@ -2539,7 +2633,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2553,7 +2649,9 @@
     
 		"place_item_category": [
       "Filler"
-    ]
+    ],
+    
+		"region": "10F"
   },
   {
     
@@ -2563,7 +2661,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "6F"
   },
   {
     
@@ -2573,7 +2673,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2583,7 +2685,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2603,7 +2707,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "5F"
   },
   {
     
@@ -2613,7 +2719,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2627,7 +2735,9 @@
     
 		"place_item_category": [
       "Filler"
-    ]
+    ],
+    
+		"region": "15F"
   },
   {
     
@@ -2637,7 +2747,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "5F"
   },
   {
     
@@ -2647,7 +2759,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2657,7 +2771,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "15F"
   },
   {
     
@@ -2667,7 +2783,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "5F"
   },
   {
     
@@ -2677,7 +2795,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "6F"
   },
   {
     
@@ -2687,7 +2807,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "6F"
   },
   {
     
@@ -2697,7 +2819,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2707,7 +2831,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "14F"
   },
   {
     
@@ -2717,7 +2843,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "8F"
   },
   {
     
@@ -2731,7 +2859,9 @@
     
 		"place_item_category": [
       "Filler"
-    ]
+    ],
+    
+		"region": "12F"
   },
   {
     
@@ -2741,7 +2871,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "5F"
   },
   {
     
@@ -2751,7 +2883,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2761,7 +2895,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2771,7 +2907,9 @@
       "Achievement"
     ],
     
-		"requires": []
+		"requires": [],
+    
+		"region": "10F"
   },
   {
     
@@ -2785,6 +2923,8 @@
     
 		"place_item_category": [
       "Filler"
-    ]
+    ],
+    
+		"region": "15F"
   }
 ]

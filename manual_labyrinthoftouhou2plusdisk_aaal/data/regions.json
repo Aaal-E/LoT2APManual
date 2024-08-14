@@ -15,7 +15,7 @@
       "3F"
     ],
     
-		"requires": []
+		"requires": "|@Character:6|"
   },
   "3F": {
     
@@ -23,7 +23,7 @@
       "4F"
     ],
     
-		"requires": []
+		"requires": "|@Character:8|"
   },
   "4F": {
     
@@ -31,7 +31,7 @@
       "5F"
     ],
     
-		"requires": []
+		"requires": "|@Character:10| AND (|@DEF:1| OR |@HP:1|)"
   },
   "5F": {
     
@@ -39,7 +39,7 @@
       "6F"
     ],
     
-		"requires": "|10 - Aki Minoriko|"
+		"requires": "|@Character:12| AND |10 - Aki Minoriko|"
   },
   "6F": {
     
@@ -47,7 +47,7 @@
       "7F"
     ],
     
-		"requires": []
+		"requires": "|@Character:13|"
   },
   "7F": {
     
@@ -55,7 +55,7 @@
       "8F"
     ],
     
-		"requires": "|25 - Komeiji Satori|"
+		"requires": "|@Character:14| AND |25 - Komeiji Satori|"
   },
   "8F": {
     
@@ -63,7 +63,7 @@
       "9F"
     ],
     
-		"requires": []
+		"requires": "|@Character:15|"
   },
   "9F": {
     
@@ -71,7 +71,7 @@
       "10F"
     ],
     
-		"requires": []
+		"requires": "|@Character:16|"
   },
   "10F": {
     
@@ -79,7 +79,7 @@
       "11F"
     ],
     
-		"requires": []
+		"requires": "|@Character:17|"
   },
   "11F": {
     
@@ -87,7 +87,7 @@
       "12F"
     ],
     
-		"requires": []
+		"requires": "|@Character:18|"
   },
   "12F": {
     
@@ -95,7 +95,7 @@
       "13F"
     ],
     
-		"requires": []
+		"requires": "|@Character:19|"
   },
   "13F": {
     
@@ -103,7 +103,7 @@
       "14F"
     ],
     
-		"requires": "|39 - Moriya Suwako| AND |38 - Yasaka Kanako|"
+		"requires": "|@Character:20| AND |39 - Moriya Suwako| AND |38 - Yasaka Kanako|"
   },
   "14F": {
     
@@ -111,7 +111,7 @@
       "15F"
     ],
     
-		"requires": []
+		"requires": "|@Character:21|"
   },
   "15F": {
     
@@ -119,7 +119,7 @@
       "16F"
     ],
     
-		"requires": []
+		"requires": "|@Character:22|"
   },
   "16F": {
     
@@ -127,7 +127,7 @@
       "17F"
     ],
     
-		"requires": []
+		"requires": "|@Character:23|"
   },
   "17F": {
     
@@ -135,7 +135,7 @@
       "18F"
     ],
     
-		"requires": []
+		"requires": "|@Character:24|"
   },
   "18F": {
     
@@ -143,7 +143,7 @@
       "19F"
     ],
     
-		"requires": []
+		"requires": "|@Character:25|"
   },
   "19F": {
     
@@ -151,12 +151,12 @@
       "20F"
     ],
     
-		"requires": []
+		"requires": "|@Character:26|"
   },
   "20F": {
     
 		"connects_to": [],
     
-		"requires": []
+		"requires": "|@Character:27|"
   }
 }
