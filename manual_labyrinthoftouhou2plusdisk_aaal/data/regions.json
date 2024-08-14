@@ -1,0 +1,162 @@
+{
+  "1F": {
+    
+		"starting": true,
+    
+		"connects_to": [
+      "2F"
+    ],
+    
+		"requires": []
+  },
+  "2F": {
+    
+		"connects_to": [
+      "3F"
+    ],
+    
+		"requires": []
+  },
+  "3F": {
+    
+		"connects_to": [
+      "4F"
+    ],
+    
+		"requires": []
+  },
+  "4F": {
+    
+		"connects_to": [
+      "5F"
+    ],
+    
+		"requires": []
+  },
+  "5F": {
+    
+		"connects_to": [
+      "6F"
+    ],
+    
+		"requires": "|10 - Aki Minoriko|"
+  },
+  "6F": {
+    
+		"connects_to": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  "7F": {
+    
+		"connects_to": [
+      "8F"
+    ],
+    
+		"requires": "|25 - Komeiji Satori|"
+  },
+  "8F": {
+    
+		"connects_to": [
+      "9F"
+    ],
+    
+		"requires": []
+  },
+  "9F": {
+    
+		"connects_to": [
+      "10F"
+    ],
+    
+		"requires": []
+  },
+  "10F": {
+    
+		"connects_to": [
+      "11F"
+    ],
+    
+		"requires": []
+  },
+  "11F": {
+    
+		"connects_to": [
+      "12F"
+    ],
+    
+		"requires": []
+  },
+  "12F": {
+    
+		"connects_to": [
+      "13F"
+    ],
+    
+		"requires": []
+  },
+  "13F": {
+    
+		"connects_to": [
+      "14F"
+    ],
+    
+		"requires": "|39 - Moriya Suwako| AND |38 - Yasaka Kanako|"
+  },
+  "14F": {
+    
+		"connects_to": [
+      "15F"
+    ],
+    
+		"requires": []
+  },
+  "15F": {
+    
+		"connects_to": [
+      "16F"
+    ],
+    
+		"requires": []
+  },
+  "16F": {
+    
+		"connects_to": [
+      "17F"
+    ],
+    
+		"requires": []
+  },
+  "17F": {
+    
+		"connects_to": [
+      "18F"
+    ],
+    
+		"requires": []
+  },
+  "18F": {
+    
+		"connects_to": [
+      "19F"
+    ],
+    
+		"requires": []
+  },
+  "19F": {
+    
+		"connects_to": [
+      "20F"
+    ],
+    
+		"requires": []
+  },
+  "20F": {
+    
+		"connects_to": [],
+    
+		"requires": []
+  }
+}

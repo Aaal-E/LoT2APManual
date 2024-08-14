@@ -1,0 +1,2790 @@
+[
+  {
+    
+		"name": "Recruit Momiji",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Kogasa",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Youmu",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Youmu",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Malignut Eater",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Random Mooks (2 Fairies, 2 Wasps, Kedama)",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Kogasa",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Aya 1",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Rumia",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Rumia",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet SDM",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Chen",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Parsee",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Mystia",
+    
+		"region": "4F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Cirno",
+    
+		"region": "2F",
+    
+		"category": [
+      "2F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Minoriko",
+    
+		"region": "2F",
+    
+		"category": [
+      "2F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Aya 2",
+    
+		"region": "2F",
+    
+		"category": [
+      "2F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Mysterious Scrap of Iron 1",
+    
+		"region": "2F",
+    
+		"category": [
+      "2F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Random Mooks 2 (2 Nut Eaters, 2 Tree Beetles, Kuron Nut)",
+    
+		"region": "2F",
+    
+		"category": [
+      "2F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Eirin",
+    
+		"region": "2F",
+    
+		"category": [
+      "2F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Kaguya",
+    
+		"region": "2F",
+    
+		"category": [
+      "2F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Alice's Doll?",
+    
+		"region": "3F",
+    
+		"category": [
+      "2F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat FOE - Chrysomallos",
+    
+		"region": "2F",
+    
+		"category": [
+      "2F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Random Mooks 3 (2 Cats, 2 Ghosties, Forest Thief)",
+    
+		"region": "3F",
+    
+		"category": [
+      "3F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Wriggle",
+    
+		"region": "3F",
+    
+		"category": [
+      "3F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Giant Tree's Poisonous Wasp",
+    
+		"region": "3F",
+    
+		"category": [
+      "3F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Give Suika Sake 1",
+    
+		"region": "3F",
+    
+		"category": [
+      "3F"
+    ],
+    
+		"requires": "|Pure Sake - Wild Boar|"
+  },
+  {
+    
+		"name": "Clear a Bush",
+    
+		"region": "3F",
+    
+		"category": [
+      "3F"
+    ],
+    
+		"requires": "|10 - Aki Minoriko|"
+  },
+  {
+    
+		"name": "Find Mysterious Scrap of Iron 2",
+    
+		"region": "3F",
+    
+		"category": [
+      "3F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Reisen",
+    
+		"region": "3F",
+    
+		"category": [
+      "3F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat FOE - Lesser Golem",
+    
+		"region": "3F",
+    
+		"category": [
+      "3F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeak Komachi",
+    
+		"region": "3F",
+    
+		"category": [
+      "3F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Alaya-Vijana",
+    
+		"region": "3F",
+    
+		"category": [
+      "3F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Lamprey Serpent",
+    
+		"region": "4F",
+    
+		"category": [
+      "4F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Aya",
+    
+		"region": "4F",
+    
+		"category": [
+      "4F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Great Tree's Paralyzing Wasp",
+    
+		"region": "4F",
+    
+		"category": [
+      "4F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Mokou",
+    
+		"region": "4F",
+    
+		"category": [
+      "4F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Alice's Upgraded Remote Doll",
+    
+		"region": "4F",
+    
+		"category": [
+      "4F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Rin",
+    
+		"region": "4F",
+    
+		"category": [
+      "4F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Pick up Mysterious Scrap of Iron 3",
+    
+		"region": "4F",
+    
+		"category": [
+      "4F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet SDM 2",
+    
+		"region": "4F",
+    
+		"category": [
+      "4F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Activate Chen Event 1",
+    
+		"region": "4F",
+    
+		"category": [
+      "4F"
+    ],
+    
+		"requires": "|12 - Chen|"
+  },
+  {
+    
+		"name": "Recruit Kaguya/Mokou",
+    
+		"region": "5F",
+    
+		"category": [
+      "5F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Satori",
+    
+		"region": "5F",
+    
+		"category": [
+      "4F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Satori",
+    
+		"region": "6F",
+    
+		"category": [
+      "4F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat FOE - Siren of Silence",
+    
+		"region": "5F",
+    
+		"category": [
+      "5F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Sanae",
+    
+		"region": "5F",
+    
+		"category": [
+      "5F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Nazrin",
+    
+		"region": "5F",
+    
+		"category": [
+      "5F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Activate Chen Event 2",
+    
+		"region": "5F",
+    
+		"category": [
+      "5F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Clear a Bush 2",
+    
+		"region": "5F",
+    
+		"category": [
+      "5F"
+    ],
+    
+		"requires": "|15 - Wriggle Nightbug|"
+  },
+  {
+    
+		"name": "Defeat Philosopher's Stone - Fire",
+    
+		"region": "5F",
+    
+		"category": [
+      "5F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Kraken",
+    
+		"region": "5F",
+    
+		"category": [
+      "5F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Hina",
+    
+		"region": "5F",
+    
+		"category": [
+      "5F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Give Suika Sake 2",
+    
+		"region": "6F",
+    
+		"category": [
+      "6F"
+    ],
+    
+		"requires": "|HQ Sake - Deer|"
+  },
+  {
+    
+		"name": "Recruit Utsuho",
+    
+		"region": "6F",
+    
+		"category": [
+      "6F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Rin",
+    
+		"region": "5F",
+    
+		"category": [
+      "5F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Yuugi",
+    
+		"region": "6F",
+    
+		"category": [
+      "6F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Activate Chen Event 3",
+    
+		"region": "6F",
+    
+		"category": [
+      "6F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Philosopher's Stone - Wind",
+    
+		"region": "6F",
+    
+		"category": [
+      "6F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Philosopher's Stone - Water",
+    
+		"region": "6F",
+    
+		"category": [
+      "6F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Blue Orchid",
+    
+		"region": "6F",
+    
+		"category": [
+      "6F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Yuugi",
+    
+		"region": "6F",
+    
+		"category": [
+      "6F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "\"Defeat\" Tenshi",
+    
+		"region": "6F",
+    
+		"category": [
+      "6F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Reisen/Eirin",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Doll Event 1",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Doll Event 2",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Doll Event 3",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Alice",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Alice",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat FOE - Giant Tree",
+    
+		"region": "8F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Philosopher's Stone - Earth",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Philosopher's Stone - Mystic",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Activate Chen Event 4",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Kanako",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Yuyuko and Yukari",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Meiling",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Jungle's Demonic Eye",
+    
+		"region": "8F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Youmu/Reimu/Marisa Event 1",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Youmu/Reimu/Marisa Event 2",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Meiling",
+    
+		"region": "8F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat FOE - Violet Ada-bana",
+    
+		"region": "8F",
+    
+		"category": [
+      "8F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Activate Chen Event 5",
+    
+		"region": "8F",
+    
+		"category": [
+      "8F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Suwako",
+    
+		"region": "8F",
+    
+		"category": [
+      "8F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Youmu/Reimu/Marisa Event 3",
+    
+		"region": "8F",
+    
+		"category": [
+      "8F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Youmu/Reimu/Marisa Event 4",
+    
+		"region": "8F",
+    
+		"category": [
+      "8F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Clear the way to Iku",
+    
+		"region": "8F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Iku",
+    
+		"region": "8F",
+    
+		"category": [
+      "8F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Clear a Bush 3",
+    
+		"region": "8F",
+    
+		"category": [
+      "8F"
+    ],
+    
+		"requires": "|10 - Aki Minoriko| AND |24 - Reiuji Utsuho|"
+  },
+  {
+    
+		"name": "Defeat Yuuka",
+    
+		"region": "13F",
+    
+		"category": [
+      "8F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Reimu/Marisa/Komachi Event 1",
+    
+		"region": "9F",
+    
+		"category": [
+      "9F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Reimu/Marisa/Komachi Event 2",
+    
+		"region": "9F",
+    
+		"category": [
+      "9F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Reimu/Marisa/Komachi Event 3",
+    
+		"region": "9F",
+    
+		"category": [
+      "9F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Give Suika Sake 3",
+    
+		"region": "9F",
+    
+		"category": [
+      "9F"
+    ],
+    
+		"requires": "|Pure HQ Sake - Butterfly|"
+  },
+  {
+    
+		"name": "Recruit Suika",
+    
+		"region": "9F",
+    
+		"category": [
+      "9F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Chen Event 6",
+    
+		"region": "9F",
+    
+		"category": [
+      "9F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Chen Event 7",
+    
+		"region": "9F",
+    
+		"category": [
+      "9F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Ran",
+    
+		"region": "9F",
+    
+		"category": [
+      "9F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "\"Defeat\" Tenshi 2",
+    
+		"region": "9F",
+    
+		"category": [
+      "9F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Ran",
+    
+		"region": "9F",
+    
+		"category": [
+      "9F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Sanae",
+    
+		"region": "8F",
+    
+		"category": [
+      "8F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Kanako/Suwako",
+    
+		"region": "10F",
+    
+		"category": [
+      "10F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Kanako/Suwako",
+    
+		"region": "10F",
+    
+		"category": [
+      "10F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Clear a Bush 4",
+    
+		"region": "10F",
+    
+		"category": [
+      "10F"
+    ],
+    
+		"requires": "|10 - Aki Minoriko| AND |13 - Kawashiro Nitori|"
+  },
+  {
+    
+		"name": "Recruit Mokou/Kaguya 2",
+    
+		"region": "10F",
+    
+		"category": [
+      "10F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Activate Crater Event",
+    
+		"region": "10F",
+    
+		"category": [
+      "10F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat FOE - Desert's Weapon - Gold Hymn",
+    
+		"region": "10F",
+    
+		"category": [
+      "10F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat FOE - Desert's Weapon - Silver Armor",
+    
+		"region": "10F",
+    
+		"category": [
+      "10F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Remilia and Sakuya",
+    
+		"region": "10F",
+    
+		"category": [
+      "10F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Reisen/Eirin 2",
+    
+		"region": "11F",
+    
+		"category": [
+      "11F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Sutra Scroll 1",
+    
+		"region": "11F",
+    
+		"category": [
+      "11F"
+    ],
+    
+		"requires": "|21 - Nazrin|"
+  },
+  {
+    
+		"name": "Activate Reimu/Marisa/Remilia/Sakuya Event",
+    
+		"region": "11F",
+    
+		"category": [
+      "11F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Remilia",
+    
+		"region": "10F",
+    
+		"category": [
+      "10F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Sakuya",
+    
+		"region": "10F",
+    
+		"category": [
+      "10F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Kanako/Suwako Event",
+    
+		"region": "12F",
+    
+		"category": [
+      "12F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Kanako/Suwako 2",
+    
+		"region": "12F",
+    
+		"category": [
+      "12F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat the Mirror of Golden Gleam",
+    
+		"region": "12F",
+    
+		"category": [
+      "12F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat the Magatama of Amber Fangs",
+    
+		"region": "12F",
+    
+		"category": [
+      "12F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Flandre",
+    
+		"region": "12F",
+    
+		"category": [
+      "12F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Mokou Event",
+    
+		"region": "10F",
+    
+		"category": [
+      "10F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trigger Kaguya Event",
+    
+		"region": "11F",
+    
+		"category": [
+      "11F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Flandre",
+    
+		"region": "12F",
+    
+		"category": [
+      "12F"
+    ],
+    
+		"requires": "|29 - Patchouli Knowledge| AND |36 - Remilia Scarlet| AND |37 - Izayoi Sakuya| AND |27 - Hong Meiling|"
+  },
+  {
+    
+		"name": "Defeat Tenshi",
+    
+		"region": "12F",
+    
+		"category": [
+      "12F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Meet Byakuren",
+    
+		"region": "13F",
+    
+		"category": [
+      "13F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Clear a Bush 5",
+    
+		"region": "13F",
+    
+		"category": [
+      "13F"
+    ],
+    
+		"requires": "|10 - Aki Minoriko| AND |09 - Cirno|"
+  },
+  {
+    
+		"name": "Find Sutra Scroll 2",
+    
+		"region": "13F",
+    
+		"category": [
+      "13F"
+    ],
+    
+		"requires": "|21 - Nazrin|"
+  },
+  {
+    
+		"name": "Defeat Shiki Eiki",
+    
+		"region": "15F",
+    
+		"category": [
+      "13F"
+    ],
+    
+		"requires": "|11 - Onozuka Komachi|"
+  },
+  {
+    
+		"name": "Defeat Memorized Knowledge",
+    
+		"region": "14F",
+    
+		"category": [
+      "14F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Sutra Scroll 3",
+    
+		"region": "14F",
+    
+		"category": [
+      "14F"
+    ],
+    
+		"requires": "|21 - Nazrin| AND |13 - Kawashiro Nitori|"
+  },
+  {
+    
+		"name": "Find Sutra Scroll 4",
+    
+		"region": "14F",
+    
+		"category": [
+      "14F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Yuyuko",
+    
+		"region": "15F",
+    
+		"category": [
+      "14F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Hell Lava Dragon",
+    
+		"region": "15F",
+    
+		"category": [
+      "15F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Glowing Azure Giant",
+    
+		"region": "15F",
+    
+		"category": [
+      "15F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Yukari",
+    
+		"region": "15F",
+    
+		"category": [
+      "15F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Yukari",
+    
+		"region": "15F",
+    
+		"category": [
+      "15F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"region": "20F",
+    
+		"name": "Demon Hell's Slurping Worm",
+    
+		"category": [
+      "16F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Black Goddess of Fertility",
+    
+		"region": "17F",
+    
+		"category": [
+      "16F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Taur Magician",
+    
+		"region": "17F",
+    
+		"category": [
+      "17F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Golden Orbs",
+    
+		"region": "18F",
+    
+		"category": [
+      "18F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Mirror of The High God",
+    
+		"region": "19F",
+    
+		"category": [
+      "20F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Magatama of The High God",
+    
+		"region": "19F",
+    
+		"category": [
+      "20F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeat Ame-no-Murakamo",
+    
+		"victory": true,
+    
+		"region": "20F",
+    
+		"category": [
+      "20F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Stone of Awakening 1",
+    
+		"region": "7F",
+    
+		"category": [
+      "7F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Stone of Awakening 2",
+    
+		"region": "8F",
+    
+		"category": [
+      "8F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Stone of Awakening 3",
+    
+		"region": "9F",
+    
+		"category": [
+      "9F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Herbalists Proof",
+    
+		"region": "10F",
+    
+		"category": [
+      "10F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Stone of Awakening 4",
+    
+		"region": "10F",
+    
+		"category": [
+      "10F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Stone of Awakening 5",
+    
+		"region": "11F",
+    
+		"category": [
+      "11F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Stone of Awakening 6",
+    
+		"region": "12F",
+    
+		"category": [
+      "12F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Strategist's Proof",
+    
+		"region": "12F",
+    
+		"category": [
+      "12F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Stone of Awakening 7",
+    
+		"region": "14F",
+    
+		"category": [
+      "13F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Stone of Awakening 8",
+    
+		"region": "15F",
+    
+		"category": [
+      "14F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Stone of Awakening 9",
+    
+		"region": "15F",
+    
+		"category": [
+      "15F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Gamblers Proof",
+    
+		"region": "16F",
+    
+		"category": [
+      "15F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Diva's Proof",
+    
+		"region": "16F",
+    
+		"category": [
+      "16F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Transcendant's Proof",
+    
+		"region": "18F",
+    
+		"category": [
+      "18F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Find Magician's Proof",
+    
+		"region": "8F",
+    
+		"category": [
+      "8F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Fledgeling Search Party",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Veteran Adventurer Party",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Warriors",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Gods of War",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": [],
+    
+		"place_item_category": [
+      "Filler"
+    ]
+  },
+  {
+    
+		"name": "Strategic Retreat",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Joestar's Family Secret Technique",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "First Wipe",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Can You Fight For 24 Hours?",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Kasen",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Gotten Used to It?",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Skilled Player",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": [],
+    
+		"place_item_category": [
+      "Filler"
+    ]
+  },
+  {
+    
+		"name": "Veteran Player",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": [],
+    
+		"place_item_category": [
+      "Filler"
+    ]
+  },
+  {
+    
+		"name": "Master Player",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": [],
+    
+		"place_item_category": [
+      "Filler"
+    ]
+  },
+  {
+    
+		"name": "Novice Collector",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Equipment Lover",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Armament Collector",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Museum's Curator",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Eccentric Collector",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Maxed Out Collector",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": [],
+    
+		"place_item_category": [
+      "Filler"
+    ]
+  },
+  {
+    
+		"name": "Wealthy Party",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Millionaire",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Bright Golden Candies",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": [],
+    
+		"place_item_category": [
+      "Filler"
+    ]
+  },
+  {
+    
+		"name": "Battle Demon",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Coward Demon",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Decade",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Century Color",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Tribute to Patchy",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Even More Tribute",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Slapping Her Face With Money Bundles",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": [],
+    
+		"place_item_category": [
+      "Filler"
+    ]
+  },
+  {
+    
+		"name": "Subclass Opening",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Defeated the Red One",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Seeking Drops",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Overkill!",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "FOE's Extinction Crisis",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Trial of Guts",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Through Hardship",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Apprentice Encyclopedia Girl",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Dedicated Amateur",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Ecology Researcher",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "What Fabre Recorded",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Full Party Formed!",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Yay for Bench Warmers",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "How Fun it is to be Friends",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Everyone in Gensokyo",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Novice Explorer",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Spelunker",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Maxing Outer",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Heavy Drinker",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": "|Pure Sake - Wild Boar| AND |HQ Sake - Deer| AND |Pure HQ Sake - Butterfly|"
+  },
+  {
+    
+		"name": "Exercise of Curiosity",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Materialistic Love",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Detonator Marisa",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Loving the Unknown",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Kourin Selection",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Rare Article Collector",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Almost Perfect",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Level Up",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Your Waifu",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Specialized Training",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Adventurer's Tastes",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scavenger Master",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Intelligence Factor",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Sufficiently Motivated",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Customer",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Great Customer",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Super Customer",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": [],
+    
+		"place_item_category": [
+      "Filler"
+    ]
+  },
+  {
+    
+		"name": "Skillful Seller",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Stellar Seller",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Ultra Seller",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Walking",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Beyond Hakone",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Travelling Through All the Japanese Isles",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Around the World",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": [],
+    
+		"place_item_category": [
+      "Filler"
+    ]
+  },
+  {
+    
+		"name": "Opens-A-Lot",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Treasure Chest Love",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Veteran Treasure Hunter",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "One Piece",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "The First Craft",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "First Steps to Enjoying Crafting",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Man-Machine Center",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Kappa God",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "High-speed Item Grabber",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "God-speed Item Grabber",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": [],
+    
+		"place_item_category": [
+      "Filler"
+    ]
+  },
+  {
+    
+		"name": "Favorite Character?",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Favorite Character (For Sure)",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Money Grubber",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Favorite Team?",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "All-Round Star Performer",
+    
+		"category": [
+      "Achievement"
+    ],
+    
+		"requires": [],
+    
+		"place_item_category": [
+      "Filler"
+    ]
+  }
+]

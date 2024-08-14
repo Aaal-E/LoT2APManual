@@ -1,0 +1,2550 @@
+[
+  {
+    
+		"count":  1,
+    
+		"name": "01 - Hakurei Reimu",
+    
+		"category": [
+      "Characters 1",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "02 - Kirisame Marisa",
+    
+		"category": [
+      "Characters 1",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "03 - Morichika Rinnosuke",
+    
+		"category": [
+      "Characters 1",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "04 - Kamishirasawa Keine",
+    
+		"category": [
+      "Characters 1",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "05 - Inubashiri Momiji",
+    
+		"category": [
+      "Characters 2",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "06 - Konpaku Youmu",
+    
+		"category": [
+      "Characters 2",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "07 - Tatara Kogasa",
+    
+		"category": [
+      "Characters 2",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "08 - Rumia",
+    
+		"category": [
+      "Characters 2",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "09 - Cirno",
+    
+		"category": [
+      "Characters 2",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "10 - Aki Minoriko",
+    
+		"category": [
+      "Characters 2",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "11 - Onozuka Komachi",
+    
+		"category": [
+      "Characters 2",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "12 - Chen",
+    
+		"category": [
+      "Characters 2",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "13 - Kawashiro Nitori",
+    
+		"category": [
+      "Characters 2",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "14 - Mizuhashi Parsee",
+    
+		"category": [
+      "Characters 2",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "15 - Wriggle Nightbug",
+    
+		"category": [
+      "Characters 3",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "16 - Houraisan Kaguya",
+    
+		"category": [
+      "Characters 3",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "17 - Fujiwara no Mokou",
+    
+		"category": [
+      "Characters 3",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "18 - Shameimaru Aya",
+    
+		"category": [
+      "Characters 3",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "19 - Mystia Lorelei",
+    
+		"category": [
+      "Characters 3",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "20 - Ibaraki Kasen",
+    
+		"category": [
+      "Characters 3",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "21 - Nazrin",
+    
+		"category": [
+      "Characters 3",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "22 - Kagiyama Hina",
+    
+		"category": [
+      "Characters 3",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "23 - Kaenbyou Rin",
+    
+		"category": [
+      "Characters 3",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "24 - Reiuji Utsuho",
+    
+		"category": [
+      "Characters 3",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "25 - Komeiji Satori",
+    
+		"category": [
+      "Characters 3",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "26 - Hoshiguma Yuugi",
+    
+		"category": [
+      "Characters 3",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "27 - Hong Meiling",
+    
+		"category": [
+      "Characters 4",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "28 - Alice Margatroid",
+    
+		"category": [
+      "Characters 4",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "29 - Patchouli Knowledge",
+    
+		"category": [
+      "Characters 4",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "30 - Yagokoro Eirin",
+    
+		"category": [
+      "Characters 4",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "31 - Inaba Udongein Reisen",
+    
+		"category": [
+      "Characters 4",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "32 - Kochiya Sanae",
+    
+		"category": [
+      "Characters 4",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "33 - Nagae Iku",
+    
+		"category": [
+      "Characters 4",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "34 - Ibuki Suika",
+    
+		"category": [
+      "Characters 4",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "35 - Yakumo Ran",
+    
+		"category": [
+      "Characters 4",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "36 - Remilia Scarlet",
+    
+		"category": [
+      "Characters 5",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "37 - Izayoi Sakuya",
+    
+		"category": [
+      "Characters 5",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "38 - Yasaka Kanako",
+    
+		"category": [
+      "Characters 5",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "39 - Moriya Suwako",
+    
+		"category": [
+      "Characters 5",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "40 - Hinanawi Tenshi",
+    
+		"category": [
+      "Characters 5",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "41 - Flandre Scarlet",
+    
+		"category": [
+      "Characters 5",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "42 - Saigyouji Yuyuko",
+    
+		"category": [
+      "Characters 6",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "43 - Kazami Yuuka",
+    
+		"category": [
+      "Characters 6",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "44 - Yakumo Yukari",
+    
+		"category": [
+      "Characters 6",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "45 - Hijiri Byakuren",
+    
+		"category": [
+      "Characters 6",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "46 - Shiki Eiki Yamaxanadu",
+    
+		"category": [
+      "Characters 6",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "47 - Usami Renko",
+    
+		"category": [
+      "Characters 6",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "48 - Maribel Hearn",
+    
+		"category": [
+      "Characters 6",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "49 - Toramaru Shou",
+    
+		"category": [
+      "Characters 7",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "50 - Futatsuiwa Mamizou",
+    
+		"category": [
+      "Characters 7",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "51 - Mononobe no Futo",
+    
+		"category": [
+      "Characters 7",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "52 - Toyosatomimi no Miko",
+    
+		"category": [
+      "Characters 7",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "53 - Hata no Kokoro",
+    
+		"category": [
+      "Characters 7",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "54 - Tokiko",
+    
+		"category": [
+      "Characters 7",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "55 - Komeiji Koishi",
+    
+		"category": [
+      "Characters 7",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "56 - Hieda no Akyuu",
+    
+		"category": [
+      "Characters 7",
+      "Character"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "1",
+    
+		"name": "Miko Board",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Tin Watering Can",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "GranDragn Medal",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Tokyo Metronome",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Cypress Stick",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Source of Magic",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Purple Orb",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Master's Emblem",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Eyetrack Orbitars",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Frozen Eyes",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Long Fall Boots",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Reflex Booster Augment",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Manga Meat",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Recovery Armband",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Life Drain Tome (Nosferatu Tome)",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Elixer of Mages",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Orb of Gaia (Orb of Earithin)",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Midgard's Tooth",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Modified Taser",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Misterepulsion",
+    
+		"category": [
+      "Main Equipment 1",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Great Hammer",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Strange Meat Pie",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Sword of Singing Delusion",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Dark Determination",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Violent Green Rupee",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Shoes of Happiness",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Growth Egg",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Pure Sake - Wild Boar",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "HQ Sake - Deer",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Pure HQ Sake - Butterfly",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "First Aid Kit",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Exorcising Staff (Staff of Gnilda)",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Chario Boots",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Choice Scarf",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Youkai Medal Shattering Axe",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Jogurt Doll",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Primal Armor",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Experimental MIRV",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Micron's Magic Book",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Ribbon",
+    
+		"category": [
+      "Main Equipment 2",
+      "Main Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Piece of Heart",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Mad Milk",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Energy Tank",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Yggdrasil Dew",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Power Bracer",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "DX Mechamonkey Model",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Biggest Sword Ever",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Shinai of Spirits",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Bulletproof Armor",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Armored Parasite",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Purple Metallic Armor",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Reinforced Leather Armor",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Cantrip Book",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Light Staff",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Mana Flower",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Kalar's Crystal",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Book of Stamp Bingo",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Crepe Mariette",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Symbol of Faith",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Diva's Apron",
+    
+		"category": [
+      "Sub Equipment 1",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Jagged Leaves",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Booster v0.8",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Pale Wing Thruster",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Full Custom",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Chargin' Targe",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "LOVE Machine 3322",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Heater Muffler",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Lv70 Lover Snapper's Scale",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Spellbook - High Hurricane",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Card [Ruler of the Heavens]",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Rosebush Robe",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Green Dream",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Stone of Hades",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Star World Bracelet",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Goriki's Charm",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Intama",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Shackles",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Dark Magic Grimoire",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Lucky Horseshoe",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Button of Aegis",
+    
+		"category": [
+      "Sub Equipment 2",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Poison Resistance Ring",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Nitroglycerin",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Talaria",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Steadfast Ring",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Two-Face's Coin",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Yamabiko Necklace",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Courtesan's Sorrow",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Kazu's Amulet",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Bludgeon",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Piche's Bauble",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Light Crystal",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Purple Dragon Crystal",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Super-Hard Rye Bread",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Sirloin",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Uniform of Exorcism",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Glow Crystal",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Bone Stake",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Blade Cusinart",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Cuckri",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Ultrafast Granite Keystone",
+    
+		"category": [
+      "Sub Equipment 3",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Luster Candy",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Getitup V",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Water Cutting Sword",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Hero's Medal",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Happy Hat",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Big Bang Waganizer",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Scouter",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Toadstoolshed",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Demon Core",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Pride",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Damascus Dread Shield",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "T-45d Power Armor",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Tisiphone Edge",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Forbidden Tablet",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "The Arch",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Lambda Driver",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Portable Oscillation Cannon",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Century's End Jacket",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Glaive of Pain",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Asura Blade",
+    
+		"category": [
+      "Sub Equipment 4",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Wallbreaker Armband",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Energy Pack",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Drum",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Regenrador's Heart",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "The Bee",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Star of Elendil",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Blue Saber",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Wash Basin Set",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Meteor Drive",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Olzhas Shamshir",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "War Mask of the Butcher",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Divine Barrier",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Lilium's Panties",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Megasphere",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Costume - Ninja Lord",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Grand Master Breaker Title",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Astral Dominae",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Cinderforge Sword",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Holy Sword Gran Centurio",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Ame no Murakamo",
+    
+		"category": [
+      "Sub Equipment 5",
+      "Sub Equipment"
+    ],
+    
+		"useful": true
+  }
+]
