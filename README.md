@@ -10,4 +10,5 @@ Items include characters, main equipment and subequipment.
 replace one of your save folders with the unzipped DLSiteSave, renamed to your save slot, then start the game and load that save. You will be prompted if you want all characters unlocked, the answer doesn't matter here. You then get to choose to play hard mode or not, both options are possible here.
 
 **Steam Version:**
+Locate your save files in %appdata%/CUBETYPE/tohoLaby. 
 Replace one of your save files with SteamSave.dat, renamed to your save slot, then load the save. Due to save editing limitations choosing hard mode is currently not supported.
