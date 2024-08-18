@@ -11,4 +11,4 @@ replace one of your save folders with the unzipped DLSiteSave, renamed to your s
 
 **Steam Version:**
 Locate your save files in %appdata%/CUBETYPE/tohoLaby. 
-Replace one of your save files with SteamSave.dat, renamed to your save slot, then load the save. Due to save editing limitations choosing hard mode is currently not supported.
+Replace one of your save files with SteamSave.dat, renamed to your save slot, then load the save. Make sure to replace an existing save. Due to save editing limitations choosing hard mode is currently not supported.
