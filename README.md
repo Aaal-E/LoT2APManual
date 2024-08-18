@@ -5,6 +5,7 @@ As of right now locations include Events (red exclamation marks in the dungeon),
 Items include characters, main equipment and subequipment.
 
 **Installation Instructions:**
+
 **DLSite Version:**
 replace one of your save folders with the unzipped DLSiteSave, renamed to your save slot, then start the game and load that save. You will be prompted if you want all characters unlocked, the answer doesn't matter here. You then get to choose to play hard mode or not, both options are possible here.
 
