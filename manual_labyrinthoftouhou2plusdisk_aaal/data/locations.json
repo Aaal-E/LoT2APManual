@@ -381,7 +381,7 @@
       "3F"
     ],
     
-		"requires": "|@DEF:1| OR |@HP:1|"
+		"requires": "|@11 - Onozuka Komachi| OR ((|@DEF:1| OR |@HP:1|) AND |@DTHRes:1|) "
   },
   {
     

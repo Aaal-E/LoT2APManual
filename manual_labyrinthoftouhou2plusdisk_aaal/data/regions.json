@@ -31,7 +31,7 @@
       "5F"
     ],
     
-		"requires": "|@Character:10| AND (|@DEF:1| OR |@HP:1|)"
+		"requires": "|@Character:10| AND (|@11 - Onozuka Komachi| OR ((|@DEF:1| OR |@HP:1|) AND |@DTHRes:1|))"
   },
   "5F": {
     

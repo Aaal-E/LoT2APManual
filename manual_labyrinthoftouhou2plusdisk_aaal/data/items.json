@@ -1983,10 +1983,11 @@
     
 		"category": [
       "Sub Equipment 3",
-      "Sub Equipment"
+      "Sub Equipment",
+      "DTHRes"
     ],
     
-		"useful": true
+		"progression": true
   },
   {
     
@@ -2269,10 +2270,11 @@
     
 		"category": [
       "Sub Equipment 4",
-      "Sub Equipment"
+      "Sub Equipment",
+      "DTHRes"
     ],
     
-		"useful": true
+		"progression": true
   },
   {
     
@@ -2555,10 +2557,11 @@
     
 		"category": [
       "Sub Equipment 5",
-      "Sub Equipment"
+      "Sub Equipment",
+      "DTHRes"
     ],
     
-		"useful": true
+		"progression": true
   },
   {
     
@@ -2607,10 +2610,11 @@
     
 		"category": [
       "Sub Equipment 5",
-      "Sub Equipment"
+      "Sub Equipment",
+      "DTHRes"
     ],
     
-		"useful": true
+		"progression": true
   },
   {
     
@@ -2620,10 +2624,11 @@
     
 		"category": [
       "Sub Equipment 5",
-      "Sub Equipment"
+      "Sub Equipment",
+      "DTHRes"
     ],
     
-		"useful": true
+		"progression": true
   },
   {
     
@@ -2676,5 +2681,17 @@
     ],
     
 		"useful": true
+  },
+  {
+    
+		"count": "20",
+    
+		"name": "Money",
+    
+		"category": [
+      "Filler"
+    ],
+    
+		"filler": true
   }
 ]
