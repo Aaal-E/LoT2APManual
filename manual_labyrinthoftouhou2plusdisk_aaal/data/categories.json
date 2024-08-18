@@ -1,0 +1,62 @@
+{
+  "Tank": {
+    "hidden": true
+  },
+  "Character": {
+    "hidden": true
+  },
+  "ATK": {
+    "hidden": true
+  },
+  "DEF": {
+    "hidden": true
+  },
+  "DPS": {
+    "hidden": true
+  },
+  "DTH": {
+    "hidden": true
+  },
+  "DTHRes": {
+    "hidden": true
+  },
+  "Debuff": {
+    "hidden": true
+  },
+  "Filler": {
+    "hidden": true
+  },
+  "HP": {
+    "hidden": true
+  },
+  "HVY": {
+    "hidden": true
+  },
+  "MAG": {
+    "hidden": true
+  },
+  "MND": {
+    "hidden": true
+  },
+  "PAR": {
+    "hidden": true
+  },
+  "PSN": {
+    "hidden": true
+  },
+  "SHK": {
+    "hidden": true
+  },
+  "SIL": {
+    "hidden": true
+  },
+  "SPD": {
+    "hidden": true
+  },
+  "Support": {
+    "hidden": true
+  },
+  "TRR": {
+    "hidden": true
+  }
+}
