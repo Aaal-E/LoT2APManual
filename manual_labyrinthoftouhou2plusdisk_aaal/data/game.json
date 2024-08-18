@@ -3,5 +3,5 @@
   "game": "LabyrinthofTouhou2PlusDisk",
   "creator": "Aaal",
   "filler_item_name": "Nothing",
-  "starting_items": [{"item_categories": ["Character"], "random": 4}]
+  "starting_items": [{"item_categories": ["Tank"], "random": 1}, {"item_categories": ["DPS"], "random": 1}, {"item_categories": ["Support"], "random": 1},{"item_categories": ["Character"], "random": 1}]
 }
