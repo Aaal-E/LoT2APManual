@@ -117,7 +117,7 @@
       "1F"
     ],
     
-		"requires": []
+		"requires": "|Manga Meat|"
   },
   {
     
@@ -2709,7 +2709,7 @@
     
 		"requires": [],
     
-		"region": "5F"
+		"region": "3F"
   },
   {
     
@@ -2797,7 +2797,7 @@
     
 		"requires": [],
     
-		"region": "6F"
+		"region": "3F"
   },
   {
     
@@ -2873,7 +2873,7 @@
     
 		"requires": [],
     
-		"region": "5F"
+		"region": "2F"
   },
   {
     
@@ -2926,5 +2926,53 @@
     ],
     
 		"region": "15F"
+  },
+  {
+    
+		"name": "Meet Youmu",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Obtain Hakurouken",
+    
+		"region": "1F",
+    
+		"category": [
+      "1F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Chen",
+    
+		"region": "3F",
+    
+		"category": [
+      "3F"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Recruit Komachi",
+    
+		"region": "4F",
+    
+		"category": [
+      "3F"
+    ],
+    
+		"requires": []
   }
 ]
